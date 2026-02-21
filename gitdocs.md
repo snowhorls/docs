@@ -1,7 +1,10 @@
 # git-docs
 
 ## setup-email-and-password
+man **git config** line 6009 <br>
+
 globally
+
 ```
 git config --global user.name "username"
 git config --global user.email "email"
@@ -18,10 +21,12 @@ git config --global user.email "email"
 git config --global core.editor vim
 ```
 
-## use-a-credential-helper
+## use-a-credential-helper^1
 
 this stores your credentials unencrypted on the disk so you dont have to log in everytime you push <br>
 see **git-credential-store** and **gitcredentials** man pages
 ```
 git config --global credential.helper store
 ```
+
+[^1]:https://git-scm.com/doc/credential-helpers
