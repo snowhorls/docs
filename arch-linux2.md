@@ -7,7 +7,7 @@ sudo vim /etc/default/grub
 ```
 remove quiet if it exists from **GRUB_CMDLINE_LINUX_DEFAULT**
 
-## swapescape-with-localectl
+## swapescape-with-localectl-command
 
 see **set-x11-keymap LAYOUT [MODEL [VARIANT [OPTIONS]]]** in man page
 
