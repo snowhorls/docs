@@ -23,11 +23,10 @@ git config --global core.editor vim
 ## use-a-credential-helper[^1]
 
 this stores your credentials unencrypted on the disk so you dont have to log in everytime you push <br>
-see **git-credential-store**[^2] and **gitcredentials**[^3]
 ```
 git config --global credential.helper store
 ``` 
-<br>
+see **git-credential-store**[^2] and **gitcredentials**[^3] <br>
 **references**  
 [^1]: https://git-scm.com/doc/credential-helpers
 [^2]: https://git-scm.com/docs/git-credential-store
