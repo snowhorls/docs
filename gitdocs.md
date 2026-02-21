@@ -27,9 +27,7 @@ see **git-credential-store**[^2] and **gitcredentials**[^3]
 ```
 git config --global credential.helper store
 ```
-<br>
-**references**
-    
+**references**  
 [^1]: https://git-scm.com/doc/credential-helpers
 [^2]: https://git-scm.com/docs/git-credential-store
 [^3]: https://git-scm.com/docs/gitcredentials
