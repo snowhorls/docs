@@ -14,6 +14,7 @@ remove quiet if it exists from **GRUB_CMDLINE_LINUX_DEFAULT**
 ```
 sudo localectl set-x11-keymap us "" "" caps:swapescape
 ```
+then reboot
 
 us is the keyboard layout, "" and "" is a place holder for model and variant to use sys defaults, and ctrl:nocaps is the optswapcaps
 
