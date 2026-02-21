@@ -29,5 +29,4 @@ see **git-credential-store** and **gitcredentials** man pages
 git config --global credential.helper store
 ```
 
-[^1]: https://git-scm.com/doc/credential-helpers
-https://man.archlinux.org/man/git-credential-store.1
+[^1]: https://git-scm.com/doc/credential-helpers https://man.archlinux.org/man/git-credential-store.1
