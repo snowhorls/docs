@@ -2,11 +2,12 @@
 
 ## setup-email-and-password
 globally
-``
+```
 git config --global user.name "username"
 git config --global user.email "email"
 ```
 or localy
+
 ```
 git config --global user.name "username"
 git config --global user.email "email"
