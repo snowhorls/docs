@@ -46,7 +46,6 @@ git config --global credential.helper store
 see **git-credential-store**[^2] and **gitcredentials**[^3] <br>
 
 ## using-git
-git push <remote> <branch>
 
 when you want to commit and push changes
 ```
