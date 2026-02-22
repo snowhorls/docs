@@ -39,7 +39,7 @@ git remote add origin https://github.com/username/repo
 
 ## use-a-credential-helper[^1]
 
-this stores your credentials unencrypted on the disk so you dont have to log in everytime you push <br>
+this this tells git tostore your credentials unencrypted on the disk so you dont have to log in everytime you push <br>
 ```
 git config --global credential.helper store
 ``` 
