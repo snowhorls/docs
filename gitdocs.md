@@ -43,9 +43,13 @@ this stores your credentials unencrypted on the disk so you dont have to log in 
 ```
 git config --global credential.helper store
 ``` 
+
+references
+
 see **git-credential-store**[^2] and **gitcredentials**[^3] <br>
 [^1]: https://git-scm.com/doc/credential-helpers
 [^2]: https://git-scm.com/docs/git-credential-store
 [^3]: https://git-scm.com/docs/gitcredentials
 [^4]: https://git-scm.com/docs/gittutorial
-[^5]: https://git-scm.com/book/ms/v2/Git-Basics-Working-with-Remotes https://git-scm.com/docs/git-remote
+[^5]: [basics-working-with-remotes](https://git-scm.com/book/ms/v2/Git-Basics-Working-with-Remotes), [git-remote-manpage](https://git-scm.com/docs/git-remote)
+[^6]: https://www.quora.com/What-is-the-purpose-of-the-origin-remote-in-Git 
