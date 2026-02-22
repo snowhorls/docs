@@ -1,6 +1,6 @@
 # arch-linux-setup
 
-## enable-boot-text
+## enable-boot-text-on-startup
 to look cooler
 ```
 sudo vim /etc/default/grub
